@@ -1,3 +1,11 @@
+<div align="center">
+
+Vuepress Template
+
+![GitHub package.json version](https://img.shields.io/github/package-json/v/openHacking/vuepress-template?style=flat-square)
+[![GitHub license](https://img.shields.io/github/license/openHacking/vuepress-template?style=flat-square)](https://github.com/openHacking/vuepress-template)
+</div>
+
 简体中文 | [English](./README.md)
 
 ## 介绍
@@ -6,7 +14,7 @@ vuepress-template是一个简单的VuePress案例模板，目的是让用户可�
 
 ## 文档
 
-[在线文档](https://openhacking.github.io/vuepress-template/)
+[在线文档](https://openhacking.github.io/vuepress-template/zh/)
 
 ## 内容
 
