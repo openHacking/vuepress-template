@@ -1,16 +1,17 @@
 module.exports = {
+  base: '/vuepress-template/', //目标地址是：https://openhacking.github.io/vuepress-template/，所以需要配置base地址后缀
   locales: {
     // 键名是该语言所属的子路径
     // 作为特例，默认语言可以使用 '/' 作为其路径。
     '/': {
       lang: 'en-US', // 将会被设置为 <html> 的 lang 属性
       title: 'VuePress Template',
-      description: 'VuePress Plugins Demo'
+      description: 'VuePress template, theme, and plugin Demo. The purpose is that users can directly clone this repository as a startup project for initializing a VuePress website, and then add custom configurations and functions based on this project.'
     },
     '/zh/': {
       lang: 'zh-CN',
       title: 'VuePress模板',
-      description: 'VuePress插件演示'
+      description: 'VuePress模板，主题，插件演示。展示了一个简单的VuePress案例模板，用户可以直接clone这个仓库，作为初始化一个VuePress网站启动项目，在这个项目的基础上新增自定义配置和功能。'
     }
   },
   plugins: ['@vuepress/back-to-top','qrcode'],
@@ -37,7 +38,8 @@ module.exports = {
         sidebar: {
           '/guide/': [
             '',
-            'plugins'
+            'theme',
+            'plugin'
           ],
           '/resource/': [],
         }
@@ -66,7 +68,8 @@ module.exports = {
         sidebar: {
           '/zh/guide/': [
             '',
-            'plugins'
+            'theme',
+            'plugin'
           ],
           '/zh/resource/': [],
         }

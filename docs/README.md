@@ -10,6 +10,6 @@ features:
 - title: Theme
   details: Custom theme
 - title: Plugin
-  details: Multiple plug-ins
+  details: Multiple plugins
 footer: MIT Licensed | Copyright © 2020-present OpenHacking
 ---

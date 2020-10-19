@@ -1,7 +1,22 @@
 English| [简体中文](./README-zh.md)
 
 ## Introduction
-This entire website shows a simple VuePress template. The purpose is that users can directly clone this repository as a startup project for initializing a VuePress website, and then add custom configurations and functions based on this project.
+vuepress-template is a simple VuePress case template. The purpose is to allow users to directly clone this repository as a startup project for initializing a VuePress website, and then add custom configurations and functions based on this project.
+
+## Documentation
+[Online Documentation](https://openhacking.github.io/vuepress-template/)
+
+## Content
+
+Some niche templates, themes, and plugins are specially displayed in the project, and I recommend everyone to pay attention and use them
+
+### Theme
+
+- [vuepress-theme-blogplus](https://github.com/Dushusir/vuepress-theme-blogplus) A concise blog theme
+
+### Plugin
+
+- [vuepress-plugin-qrocde](https://github.com/openHacking/vuepress-plugin-qrcode) Display the current URL QR code for mobile devices to scan
 
 ## Usage
 
