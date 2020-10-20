@@ -62,7 +62,7 @@ As a result, a `dist` folder will be generated in the `docs/.vuepress/` director
 
 ## Sponsor
 
-If you think this project is useful or inspiring for you, you can ask the author for a glass of juice:
+If you think this project is useful or inspiring for you, you can buy the author a glass of juice:
 
 - [Paypal me](https://paypal.me/AlexLiu518)
 - [Buy me a coffee](https://www.buymeacoffee.com/openHacking)
