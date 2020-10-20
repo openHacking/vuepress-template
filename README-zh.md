@@ -59,3 +59,16 @@ npm run docs:dev
 npm run docs:build
 ```
 结果会在`docs/.vuepress/`目录下生成一个`dist`文件夹，里面就是打包后的代码
+
+## 赞助
+
+如果你觉得这个项目对你有用或者有所启发，可以请作者喝杯果汁：
+| 微信捐赠  | 支付宝捐赠
+|---|---|
+| <img src="./assets/wechat.jpg" width="140" />| <img src="./assets/alipay.jpg" width="140" />
+
+并联系作者加到赞助者列表： alexliu518@gmail.com
+
+## 赞助者列表
+
+- [Dushusir](https://dushusir.github.io)
