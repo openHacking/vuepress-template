@@ -52,7 +52,7 @@ Start the project, then you can modify the configuration and write document cont
 npm run docs:dev
 ```
 
-### Step 
+### Step 4
 
 Packaged project
 ```sh
