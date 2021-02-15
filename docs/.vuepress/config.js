@@ -22,7 +22,8 @@ module.exports = {
           "/": "QRCode", 
           "/zh/": "二维码",
         },
-        size:'small'
+        size:'small',
+        channel:true
     }]
   ],
   themeConfig: {
