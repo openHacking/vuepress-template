@@ -43,7 +43,7 @@ module.exports = {
         algolia: {},
         nav: [
           { text: 'Guide', link: '/guide/', ariaLabel: 'Guide' },
-          { text: 'Resource', link: '/resource/', ariaLabel: 'Resource' },
+          { text: 'Study', link: 'https://lwebapp.com', ariaLabel: 'Study' },
 					{ text: 'Github', link: 'https://github.com/openHacking/vuepress-template' }
         ],
         sidebar: {
@@ -73,7 +73,7 @@ module.exports = {
         algolia: {},
         nav: [
           { text: '指南', link: '/zh/guide/', ariaLabel: '指南' },
-          { text: '资源', link: '/zh/resource/', ariaLabel: '资源' },
+          { text: '学习', link: 'https://lwebapp.com', ariaLabel: '学习' },
 					{ text: 'Github', link: 'https://github.com/openHacking/vuepress-template' }
         ],
         sidebar: {
