@@ -16,7 +16,7 @@ vuepress-template是一个简单的VuePress案例模板，目的是让用户可�
 
 ## 文档
 
-[在线文档](https://openhacking.github.io/vuepress-template/zh/)
+[在线文档](https://lwebapp.com/vuepress-template/zh/)
 
 ## 内容
 

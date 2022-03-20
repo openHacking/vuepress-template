@@ -16,7 +16,7 @@ vuepress-template is a simple VuePress case template. The purpose is to allow us
 
 ## Documentation
 
-[Online Documentation](https://openhacking.github.io/vuepress-template/)
+[Online Documentation](https://lwebapp.com/vuepress-template/)
 
 ## Content
 
