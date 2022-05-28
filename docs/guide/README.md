@@ -12,7 +12,7 @@ And the corresponding plugin can directly see the effect, making it easier to us
 
 ## Usage
 
-### Step 1
+### Step 1 步骤1
 
 Download the repository code of Vuepress Template
 ```sh
