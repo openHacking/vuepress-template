@@ -7537,10 +7537,10 @@ vuepress-plugin-container@^2.0.2:
     "@vuepress/shared-utils" "^1.2.0"
     markdown-it-container "^2.0.0"
 
-vuepress-plugin-qrcode@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/vuepress-plugin-qrcode/-/vuepress-plugin-qrcode-1.0.0.tgz#3e0ebfe98513346f54560499b32e2d52783b0a3d"
-  integrity sha512-6MMA7/HSUWUBzIdCZd+h/1LpyivWcO5xVHQipzIMzc4DGp2hFNa+0v2u4/LwFkzmVoH7smgTbKZICi+HRokZmA==
+vuepress-plugin-qrcode@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-qrcode/-/vuepress-plugin-qrcode-1.0.7.tgz#3357ee2bbe9f6d601edfab81c2e8f24b266c1215"
+  integrity sha512-oE/QTxFD5ysGSQvGrPLxnlDNk9rS2GMaIde7gH8Bl+frYvw36ol3DPW1CO6sLSiZSOdo+eCi4NZ4Z+arfJggpg==
   dependencies:
     qrcode.vue "^1.7.0"
 
